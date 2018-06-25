@@ -4,9 +4,9 @@ Please browse the configuration page and examples : [here](https://www.opensug.o
 
 Browser support: IE6+, Firefox, Chrome, Safari, Opera, Edge...
 
-Provide the replacement result source, The default is to use Baidu result source.
+Provide the replacement result source, The default is to use **Baidu** result source.
 ```ini
-var _source = 'google | haoso | yahoo | yandex | taobao ';
+var _source = 'google | haoso | kugou | yahoo | yandex | youku | taobao ';
 ```
 ## Example
 ### Simple
